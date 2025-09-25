@@ -1,4 +1,4 @@
-# Função para validaçãog
+# Função para validação
 def obter_numero(mensagem):
     while True:
         try:
